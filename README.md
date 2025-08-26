@@ -1,10 +1,8 @@
 # Bernardo Beck da Silva
-Apaixonado por tecnologia!!!
-
-Sou estudante de Ciência da Computação 
+Profissional em TI | Infraestrutura, Suporte e Otimização de Sistemas | Futuro Gestor em Tecnologia
 
 ## Minhas redes sociais
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/eibebecks/)
+(https://beacons.ai/bebecks)
 
 
 ## Habilidades 
